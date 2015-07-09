@@ -1,6 +1,6 @@
 # DiskSync - Backup your Hifidelio
 
-This repository contains the final version of my backup software for the Hifidelio MP3 player. I keep it for historical reasons.
+This repository contains the final version of my backup software for the Hifidelio MP3 player. I stopped working on this project in 2008 and only keep it here for historical reasons.
 
 ## Introduction
 
