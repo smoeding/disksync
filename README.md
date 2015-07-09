@@ -6,7 +6,7 @@ This repository contains the final version of my backup software for the Hifidel
 
 The program *DiskSync* was written by me to backup the internal disk of my Hifidelio to an external USB drive. It has been designed to create a complete backup of the music data and allow a restore of not only the audio tracks but also the play- and searchlists and the rest of the preferences.
 
-![alt DiskSync welcome screen](https://github.com/smoeding/disksync/Welcome.jpg/gh-pages "DiskSync welcome screen")
+![alt DiskSync welcome screen](https://github.com/smoeding/disksync/raw/gh-pages/Welcome.jpg "DiskSync welcome screen")
 
 ## Key Features
 
